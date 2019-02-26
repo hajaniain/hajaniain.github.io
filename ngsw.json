@@ -7,12 +7,12 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
-        "/4.bf8769ef3cce15cb867b.js",
+        "/4.4efd10f7908f20e9e183.js",
         "/favicon.ico",
         "/index.html",
         "/main.f7ba5f8c963f2cf9ca77.js",
         "/polyfills.a3af1614dc3712538dd6.js",
-        "/runtime.2104e1bd4f5f93b1a806.js",
+        "/runtime.7f89fe0e86672a506bbb.js",
         "/styles.1fb05c7eb1209ba15b64.css"
       ],
       "patterns": []
@@ -29,13 +29,13 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/4.bf8769ef3cce15cb867b.js": "96b4457dd2aac9696bd0ae5be629575084ec5726",
+    "/4.4efd10f7908f20e9e183.js": "3266177bd7d1d2703c8aa5481c724f2f4f215dc6",
     "/assets/icons/icon-144x144.png": "ae2a0cd9572c14ef94c96900b34bceb620a7c00c",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "bed31fc5b75a880e7f82b18fc3ab2e72ad79f4bb",
+    "/index.html": "ef2e50665068c57fd0922b3c68b6427b888b7df4",
     "/main.f7ba5f8c963f2cf9ca77.js": "e0aeafc7187b6b766a4e57354c47720142e09c9b",
     "/polyfills.a3af1614dc3712538dd6.js": "6946e10a03311677a01490b8e91741668e64e17e",
-    "/runtime.2104e1bd4f5f93b1a806.js": "394ca41c9af36930a226b1d9787075843fc34827",
+    "/runtime.7f89fe0e86672a506bbb.js": "f26c5bdd27059028f0340937edea73cc3aaa1bd6",
     "/styles.1fb05c7eb1209ba15b64.css": "afe33b1074bc061f54911bccba8dc412c4de56e2"
   },
   "navigationUrls": [
