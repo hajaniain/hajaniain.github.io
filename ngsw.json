@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.5486af98f8b408f282d4.js",
+        "/main.ff68aa4adc9700994269.js",
         "/polyfills.a3af1614dc3712538dd6.js",
         "/runtime.a5dd35324ddfd942bef1.js",
         "/styles.444040897757d769f6f6.css"
@@ -30,8 +30,8 @@
   "hashTable": {
     "/assets/icons/icon-144x144.png": "ae2a0cd9572c14ef94c96900b34bceb620a7c00c",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "a52e4b9edbd7a77a0b7e731a6d9ca058782eb57d",
-    "/main.5486af98f8b408f282d4.js": "6d3eed2605feb6997f57af3aac565cfe246dda9c",
+    "/index.html": "81f9809158b08417ce4bb47f9067e7ea38474e63",
+    "/main.ff68aa4adc9700994269.js": "3db27f39f585aa1ecf21873d1d4cd007b227106b",
     "/polyfills.a3af1614dc3712538dd6.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.444040897757d769f6f6.css": "9af5ea7914bc12e45fa9f1a35b92c76d4aa2a0a2"
