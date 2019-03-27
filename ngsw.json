@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1553688449761,
+  "timestamp": 1553691196014,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,7 +10,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.457b20d0f35ad6677c93.js",
+        "/main.fb48a1413d55127d8607.js",
         "/polyfills.a3af1614dc3712538dd6.js",
         "/runtime.a5dd35324ddfd942bef1.js",
         "/styles.4e9af2c8fac9dd96bf2d.css"
@@ -22,7 +22,9 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
-        "/assets/icons/icon-144x144.png"
+        "/assets/icons/icon-144x144.png",
+        "/assets/img/arya.gif",
+        "/assets/img/finn.gif"
       ],
       "patterns": []
     }
@@ -41,9 +43,11 @@
   ],
   "hashTable": {
     "/assets/icons/icon-144x144.png": "ae2a0cd9572c14ef94c96900b34bceb620a7c00c",
+    "/assets/img/arya.gif": "ba46b6082400fc0ed899fdb6d63b03b04f6f5135",
+    "/assets/img/finn.gif": "d36aec5ebf7aabc85062346557d3b7074eec84de",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "957e90021509b07741c4e6c0df5e10e6b30285c0",
-    "/main.457b20d0f35ad6677c93.js": "7330ed0748b5db9faf5680ba7fab6dce58591332",
+    "/index.html": "2daa786aecd9180b381082c807f54fbc5cf43da7",
+    "/main.fb48a1413d55127d8607.js": "b53ef7ed25d423fca97c69cd4175c9ada7582cd9",
     "/polyfills.a3af1614dc3712538dd6.js": "6946e10a03311677a01490b8e91741668e64e17e",
     "/runtime.a5dd35324ddfd942bef1.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/styles.4e9af2c8fac9dd96bf2d.css": "c5ab27f3864999115d961dd4276a88b8137908a5"
