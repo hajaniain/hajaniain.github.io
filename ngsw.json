@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1553498086791,
+  "timestamp": 1553687875970,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -27,7 +27,18 @@
       "patterns": []
     }
   ],
-  "dataGroups": [],
+  "dataGroups": [
+    {
+      "name": "finn",
+      "patterns": [
+        "\\/finn"
+      ],
+      "strategy": "freshness",
+      "maxSize": 0,
+      "maxAge": 0,
+      "version": 1
+    }
+  ],
   "hashTable": {
     "/assets/icons/icon-144x144.png": "ae2a0cd9572c14ef94c96900b34bceb620a7c00c",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
