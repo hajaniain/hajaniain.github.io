@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1579010929228,
+  "timestamp": 1579169302626,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,11 +10,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.ae67f306923bd0f45dd7.js",
+        "/main.c1a700eeac5c9a29c683.js",
         "/polyfills-es5.69356a54216247891eea.js",
         "/polyfills.9a1171c729121d2be099.js",
         "/runtime.b9a504b389cbb69f8b6e.js",
-        "/styles.a07b19c40c7bd21f93f8.css"
+        "/styles.ab1442a7ad0bcb326f0c.css"
       ],
       "patterns": []
     },
@@ -47,12 +47,12 @@
     "/assets/img/arya.gif": "ba46b6082400fc0ed899fdb6d63b03b04f6f5135",
     "/assets/img/finn.gif": "d36aec5ebf7aabc85062346557d3b7074eec84de",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "4f98711d79beab311697d736e2777e59e650ce48",
-    "/main.ae67f306923bd0f45dd7.js": "3717c2579b64052eec4850cd044a4889e5a6248b",
+    "/index.html": "a5c1ba06e2231a2475d217dffce31026b410ed5e",
+    "/main.c1a700eeac5c9a29c683.js": "11b6549ed5694f123f5780a6fd1f5a3782a55a0c",
     "/polyfills-es5.69356a54216247891eea.js": "0b3f27c968598d30e250072868e8b2ea2a4f7b84",
     "/polyfills.9a1171c729121d2be099.js": "623419add8fa161aac5fdac20e773a7f1580205f",
     "/runtime.b9a504b389cbb69f8b6e.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/styles.a07b19c40c7bd21f93f8.css": "2085a2a1ca7ac0dffca1aaafafe7e3b65b22c282"
+    "/styles.ab1442a7ad0bcb326f0c.css": "810b9961ed15d535abd34a1d2d4a2b13693f9ea9"
   },
   "navigationUrls": [
     {
