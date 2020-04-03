@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1585900905319,
+  "timestamp": 1585901075097,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/5.3e36c71b58c7976cbb80.js",
         "/favicon.ico",
         "/index.html",
-        "/main.4432e4558f3ee26c5d7c.js",
+        "/main.48ed17981e291542b7b2.js",
         "/polyfills-es5.191c5264757924e0a2a5.js",
         "/polyfills.9473ca16f19e667e2411.js",
         "/runtime.be1c8fa89cae7584e3ab.js",
@@ -49,8 +49,8 @@
     "/assets/img/arya.gif": "ba46b6082400fc0ed899fdb6d63b03b04f6f5135",
     "/assets/img/finn.gif": "d36aec5ebf7aabc85062346557d3b7074eec84de",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "4cf69dc52988a15969a90673158e58f0482444a0",
-    "/main.4432e4558f3ee26c5d7c.js": "257f1d375f0d4b6bc07dd3faa58fdf71f7e13a06",
+    "/index.html": "6ec4b13f6e83db43b6806a1abb8b25d84835baa9",
+    "/main.48ed17981e291542b7b2.js": "a73639ad70510198027867b74627e37d91f6e324",
     "/polyfills-es5.191c5264757924e0a2a5.js": "d579f086e6369e2976d5e4afdf8789d3239c59a3",
     "/polyfills.9473ca16f19e667e2411.js": "00d68f6bec8622ed1a323563d0a30dd7a541895c",
     "/runtime.be1c8fa89cae7584e3ab.js": "ae56316f348a3c76ac64704c4555c57217f45f7d",
