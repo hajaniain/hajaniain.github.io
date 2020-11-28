@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1600805148259,
+  "timestamp": 1606580995525,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/5.d99988a75b6e1804e118.js",
+        "/5.482fa4e8fa9d1fa03372.js",
         "/favicon.ico",
         "/index.html",
-        "/main.d2a7843f682ccd407dee.js",
-        "/polyfills-es5.3f617690761aac286e43.js",
-        "/polyfills.42e52705586d7757b975.js",
-        "/runtime.6b82e0c7f6118de78e01.js",
-        "/styles.520ec006c8fdc252c4ab.css"
+        "/main.c2666e59da9caa35770e.js",
+        "/polyfills-es5.a922742d20c6701ef393.js",
+        "/polyfills.3ac37773c1fece6d64ba.js",
+        "/runtime.17cd02aada61d05b48f5.js",
+        "/styles.07c39665c18428e040ca.css"
       ],
       "patterns": []
     },
@@ -54,18 +54,18 @@
     }
   ],
   "hashTable": {
-    "/5.d99988a75b6e1804e118.js": "f0713e84d6b078e455935bbe52bc58cf448d0fe9",
+    "/5.482fa4e8fa9d1fa03372.js": "fd1a34c2c60c22c931f72002fada2cb7f4ef77fb",
     "/assets/icons/icon-144x144.png": "ae2a0cd9572c14ef94c96900b34bceb620a7c00c",
     "/assets/img/arya.gif": "ba46b6082400fc0ed899fdb6d63b03b04f6f5135",
     "/assets/img/finn.gif": "d36aec5ebf7aabc85062346557d3b7074eec84de",
     "/assets/scully-routes.json": "6e3a681c9e7e0c6a79729de36e4310006bd43fd3",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "505ab839141a3e2752774b9c713889117f210b81",
-    "/main.d2a7843f682ccd407dee.js": "31159882fd400b5ee711880e9e54a5b6c70a927d",
-    "/polyfills-es5.3f617690761aac286e43.js": "5aae377d29800a46a6e2e9b200600fc10fda2e25",
-    "/polyfills.42e52705586d7757b975.js": "e399b2c6362bd03ee5e70b77949b6af2fc93396b",
-    "/runtime.6b82e0c7f6118de78e01.js": "6bda7998006bc8fb283a071e03ffdad915a355f5",
-    "/styles.520ec006c8fdc252c4ab.css": "209f7dd8cd1aab1eaa6e62a5aa61e99308bea0b1"
+    "/index.html": "58486748772c8e7dc0e7a0f8d277e199c09c3c4d",
+    "/main.c2666e59da9caa35770e.js": "cb4e00b47b053e994f99682e8dbbb728667f1dee",
+    "/polyfills-es5.a922742d20c6701ef393.js": "9d80241d3e08e581e9c28a34f53312bb79155887",
+    "/polyfills.3ac37773c1fece6d64ba.js": "ce40268ef7351927df91374ce5491fa0abf5c5f6",
+    "/runtime.17cd02aada61d05b48f5.js": "d353bbfd8a6b01a644a88ef2fd143a7cc4e58226",
+    "/styles.07c39665c18428e040ca.css": "d60ed7399dc0f985a204f8a759fbd0eb45a87b1a"
   },
   "navigationUrls": [
     {
@@ -84,5 +84,6 @@
       "positive": false,
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
-  ]
+  ],
+  "navigationRequestStrategy": "performance"
 }
