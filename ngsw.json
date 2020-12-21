@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1607453011565,
+  "timestamp": 1608577305118,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,11 +14,11 @@
         "/5.482fa4e8fa9d1fa03372.js",
         "/favicon.ico",
         "/index.html",
-        "/main.06d7ceb904712c5d9efa.js",
+        "/main.c9ac382660ac0a4f3998.js",
         "/polyfills-es5.a922742d20c6701ef393.js",
         "/polyfills.3ac37773c1fece6d64ba.js",
         "/runtime.17cd02aada61d05b48f5.js",
-        "/styles.85a1f9a35ad73bd5c71c.css"
+        "/styles.36af8a276b5f897d48b9.css"
       ],
       "patterns": []
     },
@@ -60,12 +60,12 @@
     "/assets/img/finn.gif": "d36aec5ebf7aabc85062346557d3b7074eec84de",
     "/assets/scully-routes.json": "6e3a681c9e7e0c6a79729de36e4310006bd43fd3",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "2c71a43b00b4fb62649603d3e28eda5789b47df4",
-    "/main.06d7ceb904712c5d9efa.js": "d8ea587e60a8588beeaf6efd1858c0047bebed6b",
+    "/index.html": "a1e44b5ff32ef9ee295b4e13a8834f9c049e1508",
+    "/main.c9ac382660ac0a4f3998.js": "dd8eabe00c331a39fe3662e20f3a9817abeb1411",
     "/polyfills-es5.a922742d20c6701ef393.js": "9d80241d3e08e581e9c28a34f53312bb79155887",
     "/polyfills.3ac37773c1fece6d64ba.js": "ce40268ef7351927df91374ce5491fa0abf5c5f6",
     "/runtime.17cd02aada61d05b48f5.js": "d353bbfd8a6b01a644a88ef2fd143a7cc4e58226",
-    "/styles.85a1f9a35ad73bd5c71c.css": "0796e3f0418d8d0e182f21c57bdb3327fd02544b"
+    "/styles.36af8a276b5f897d48b9.css": "5d977f91ed0bddcb4d6e96236047d1e894c4e5ea"
   },
   "navigationUrls": [
     {
