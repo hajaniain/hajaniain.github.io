@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1608577305118,
+  "timestamp": 1608577843080,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -18,7 +18,7 @@
         "/polyfills-es5.a922742d20c6701ef393.js",
         "/polyfills.3ac37773c1fece6d64ba.js",
         "/runtime.17cd02aada61d05b48f5.js",
-        "/styles.36af8a276b5f897d48b9.css"
+        "/styles.653dfb853b741a9d67f6.css"
       ],
       "patterns": []
     },
@@ -60,12 +60,12 @@
     "/assets/img/finn.gif": "d36aec5ebf7aabc85062346557d3b7074eec84de",
     "/assets/scully-routes.json": "6e3a681c9e7e0c6a79729de36e4310006bd43fd3",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "a1e44b5ff32ef9ee295b4e13a8834f9c049e1508",
+    "/index.html": "78b75d605b7ca4e8514aacb33b79c44a4c201c09",
     "/main.c9ac382660ac0a4f3998.js": "dd8eabe00c331a39fe3662e20f3a9817abeb1411",
     "/polyfills-es5.a922742d20c6701ef393.js": "9d80241d3e08e581e9c28a34f53312bb79155887",
     "/polyfills.3ac37773c1fece6d64ba.js": "ce40268ef7351927df91374ce5491fa0abf5c5f6",
     "/runtime.17cd02aada61d05b48f5.js": "d353bbfd8a6b01a644a88ef2fd143a7cc4e58226",
-    "/styles.36af8a276b5f897d48b9.css": "5d977f91ed0bddcb4d6e96236047d1e894c4e5ea"
+    "/styles.653dfb853b741a9d67f6.css": "6e280fcc95a6d27e3a15103bc9d4d85b28c09b3f"
   },
   "navigationUrls": [
     {
