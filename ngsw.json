@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1610477652294,
+  "timestamp": 1611689275008,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/5.482fa4e8fa9d1fa03372.js",
         "/favicon.ico",
         "/index.html",
-        "/main.0d1fbf073bb9065e3b63.js",
+        "/main.e50fd5bd6623ada2cce7.js",
         "/polyfills-es5.a922742d20c6701ef393.js",
         "/polyfills.3ac37773c1fece6d64ba.js",
         "/runtime.17cd02aada61d05b48f5.js",
@@ -60,8 +60,8 @@
     "/assets/img/finn.gif": "d36aec5ebf7aabc85062346557d3b7074eec84de",
     "/assets/scully-routes.json": "6e3a681c9e7e0c6a79729de36e4310006bd43fd3",
     "/favicon.ico": "34b41b827be8ec450ce9bca120f683b91eedfed9",
-    "/index.html": "d1ef245c6371675d06c025bcf3b01cf0313b0b56",
-    "/main.0d1fbf073bb9065e3b63.js": "70ad13552eac5a06fba5ad169fd30380102196b4",
+    "/index.html": "9e7bfac7c0f9e7f2f27019ffb4e4450b561feae2",
+    "/main.e50fd5bd6623ada2cce7.js": "be642fa4211e21a8bf7b2ff53935a46979c358e4",
     "/polyfills-es5.a922742d20c6701ef393.js": "9d80241d3e08e581e9c28a34f53312bb79155887",
     "/polyfills.3ac37773c1fece6d64ba.js": "ce40268ef7351927df91374ce5491fa0abf5c5f6",
     "/runtime.17cd02aada61d05b48f5.js": "d353bbfd8a6b01a644a88ef2fd143a7cc4e58226",
